@@ -19,7 +19,7 @@ I am a computer science student and programmer from Brasil!🟢🟡
 
 - 🌟 I'm currently working as intern at [Fabtech](https://fabtech.com.br/)
 - 🚀 I'm currently working as react native developer at [Softeam](https://softeam.com.br/)
-- 🌱 I'm learning Angular and Ionic
+- 🌱 I'm learning Angular, Ionic and Ruby on Rails
 
 
 **Languages and Tools:** &nbsp;
