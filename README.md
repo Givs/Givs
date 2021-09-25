@@ -17,9 +17,8 @@
 
 I am a computer science student and programmer from Brasil!🟢🟡
 
-- 🌟 I'm currently working as intern at [Fabtech](https://fabtech.com.br/)
-- 🚀 I'm currently working as react native developer at [Softeam](https://softeam.com.br/)
-- 🌱 I'm learning Angular, Ionic and Ruby on Rails
+- 🌟 I'm currently working as developer at [Simbiose Ventures](https://www.simbioseventures.com/)
+- 🌱 I'm learning Python, Django and Databases
 
 
 **Languages and Tools:** &nbsp;
@@ -27,8 +26,9 @@ I am a computer science student and programmer from Brasil!🟢🟡
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+
 
 <p aling="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Givs&theme=radical&hide_langs_below=1&layout=compact">
