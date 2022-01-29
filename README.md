@@ -18,7 +18,7 @@
 I am a computer science student and dev from Brasil!🟢🟡
 
 - 🌟 I'm currently working as developer at [Simbiose Ventures](https://www.simbioseventures.com/)
-- 🌱 I'm learning Python, Django and Databases
+- 🌱 I'm learning Python, Django, Javascript and Databases
 
 
 **Languages and Tools:** &nbsp;
